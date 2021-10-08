@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋  I'm Ding.
 
-<!--
-**JeffDing99/JeffDing99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning Java and Vue
+- 🤔 Exploring new technologies and developing software solutions and having fun.
+- 🎓 Studying Computer Science and computer programming.
+- 💼 Back-end developer and front-end web developer.
+- 🌱 Always believe that good things will happen.
+- ✍️ Thinking about problems from the perspective of others often makes me more populars.
+- ☕ I believe that more than one happy thing is two happy things. 
+
+
+### 🛠 Tech Stack
+
+- 💻 Java | C++ |  
+- 🌐 HTML | CSS | JavaScript | Vue
+- 🛢  MySQL | Redis | Linux
+- 🔧 Visual Studio code | IDEA | Git
+
+
+
